@@ -28,27 +28,6 @@ The analysis is organized into **task-based Excel files**, reflecting a structur
 
 ---
 
-## 📂 Project Structure
-Social-Media-Performance-Analysis/
-│
-├── analysis/
-│ ├── Task_1_Data_Preprocessing_and_Cleaning.xlsx
-│ ├── Task_2_EngagementAnalysis.xlsx
-│ ├── Task_3_PlatformPerformance.xlsx
-│ ├── Task_4_Hashtag_ContentStrategy.xlsx
-│ ├── Task_5_Campaign_Effectiveness.xlsx
-│ └── Task_6_FollowerRetention.xlsx
-│
-├─ data/
-│ └── Spotify social media performance data.xlsx
-│
-├── documentation/
-│ └── Tasks_Performed.pdf
-│
-└── README.md
-
----
-
 ## 📝 Task-wise Analysis
 
 ### ✅ Task 1: Data Preprocessing and Cleaning
