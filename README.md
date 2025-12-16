@@ -98,6 +98,5 @@ It highlights strong analytical, visualization, and business interpretation skil
 
 ---
 
-## 📬 Contact
-Feel free to explore the project and connect with me for feedback, collaboration, or opportunities.
+
 
